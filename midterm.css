@@ -1,0 +1,33 @@
+
+
+body {background-color: #C1C59B;}
+
+h1,h2 p{font-style: sans-serif monospace;
+    font-style: italic, Times, arial;}
+
+h2 {font-family: Avant Garde, Arial, sans-serif;}
+
+p {line-height: 40px;
+    padding: 13px};
+
+
+a {text-decoration: line-through;}
+a:link {color: rgb(244, 25, 255);}
+a:visited {background-color:rgb(100,100,100);}
+a:hover {background-color: #E7D8A9}
+a:active {color: rosybrown;
+    background-color: blue;}
+
+   
+
+#container {background-color: #95CBCC;
+    margin: auto;
+    width: 50%;
+    padding: 20px;
+    border:1px solid brown;}
+
+    
+
+
+    .specialblue{color:  blue}
+
